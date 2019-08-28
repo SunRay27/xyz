@@ -1,9 +1,9 @@
 {
 "companyName": "SnowLabs",
 "productName": "XYZ",
-"dataUrl": "Build.data.unityweb",
-"wasmCodeUrl": "Build.wasm.code.unityweb",
-"wasmFrameworkUrl": "Build.wasm.framework.unityweb",
+"dataUrl": "Build2.data.unityweb",
+"wasmCodeUrl": "Build2.wasm.code.unityweb",
+"wasmFrameworkUrl": "Build2.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
