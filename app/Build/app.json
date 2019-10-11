@@ -1,0 +1,13 @@
+{
+"companyName": "SnowLabs",
+"productName": "XYZ",
+"dataUrl": "app.data.unityweb",
+"wasmCodeUrl": "app.wasm.code.unityweb",
+"wasmFrameworkUrl": "app.wasm.framework.unityweb",
+"TOTAL_MEMORY": 67108864,
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
